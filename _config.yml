@@ -14,15 +14,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Ana Bittencourt
+tagline:          'Design & Development'
+description:      'UX Designer and iOS Developer based in Brazil' 
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ana Bittencourt'
+  url:            https://www.linkedin.com/in/anabittencourt
 
 paginate:         1
 
